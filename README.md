@@ -6,11 +6,13 @@
 ## Array
 |  |
 | ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/GabrieldotMasterson/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2350-find-closest-number-to-zero](https://github.com/GabrieldotMasterson/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/GabrieldotMasterson/LeetCode/tree/master/0392-is-subsequence) |
+| [1019-squares-of-a-sorted-array](https://github.com/GabrieldotMasterson/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/GabrieldotMasterson/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -32,4 +34,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/GabrieldotMasterson/LeetCode/tree/master/0392-is-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/GabrieldotMasterson/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
