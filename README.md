@@ -30,12 +30,22 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/GabrieldotMasterson/LeetCode/tree/master/0013-roman-to-integer) |
+| [1013-fibonacci-number](https://github.com/GabrieldotMasterson/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/GabrieldotMasterson/LeetCode/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/GabrieldotMasterson/LeetCode/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/GabrieldotMasterson/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/GabrieldotMasterson/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/GabrieldotMasterson/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
