@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/GabrieldotMasterson/LeetCode/tree/master/0001-two-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/GabrieldotMasterson/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2350-find-closest-number-to-zero](https://github.com/GabrieldotMasterson/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 ## Two Pointers
@@ -24,6 +25,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/GabrieldotMasterson/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/GabrieldotMasterson/LeetCode/tree/master/0013-roman-to-integer) |
 | [0782-jewels-and-stones](https://github.com/GabrieldotMasterson/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Math
