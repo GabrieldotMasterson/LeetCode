@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/GabrieldotMasterson/LeetCode/tree/master/0001-two-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/GabrieldotMasterson/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/GabrieldotMasterson/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2350-find-closest-number-to-zero](https://github.com/GabrieldotMasterson/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 ## Two Pointers
 |  |
@@ -33,6 +34,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/GabrieldotMasterson/LeetCode/tree/master/0013-roman-to-integer) |
 | [1013-fibonacci-number](https://github.com/GabrieldotMasterson/LeetCode/tree/master/1013-fibonacci-number) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/GabrieldotMasterson/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/GabrieldotMasterson/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/GabrieldotMasterson/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
